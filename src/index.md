@@ -1,5 +1,5 @@
 ---
-title: Ihre Hausverwaltung IMH GmbH
+title: Bauprojekte und Immobilien von NaheBau GmbH | Bad Kreuznach
 layout: page
 excerpt: null
 eleventyNavigation:
@@ -30,37 +30,36 @@ heroSettings:
     ? mobile
     ? desktop
   buttonBgColor: null
-  subheadingText: zuverlässig, freundlich und nah! Wir sind Ihre Hausverwaltung
-    mit Sitz in Bad Kreuznach und fühlen uns seit je her mit unserer Region
-    verbunden.
-  headingText: Wir verwalten Ihre Immobilien
+  subheadingText: Professionelle Projektentwicklung und Immobilienverkauf in der
+    Region Bad Kreuznach. Wir bauen Qualität, die Bestand hat.
+  headingText: Wir entwickeln und bauen eigene Immobilienprojekte
   subheadingTextColor: null
   headingTextColor: null
   buttonURL: /kontakt/
   buttonBorder: null
   headingTextCase: null
-  buttonText: Kontakt aufnehmen
+  buttonText: Projekte erkunden
 ---
 ## Wer wir sind
 
-![](assets/images/logo-quer.jpeg)
+<div class="my-8 bg-gray-200 rounded-lg flex items-center justify-center" style="width: 100%; height: 200px;">
+  <span class="text-gray-500 text-lg">Logo Platzhalter</span>
+</div>
 
-Ich bin Christine Hoffmann und gelernte Bankkauffrau. Ich kümmere mich seit über 20 Jahren um die Verwaltung von Immobilien in Bad Kreuznach und Umgebung.
+Die NaheBau GmbH ist ein erfahrenes Bauunternehmen, das sich auf die Entwicklung, Planung und Realisierung eigener Immobilienprojekte spezialisiert hat. Mit fundiertem Know-how und modernem Handwerk schaffen wir attraktive Wohn- und Gewerbeimmobilien in Bad Kreuznach und der Umgebung.
 
-Mit der Immobilien Management Hoffmann GmbH haben Sie nun die Möglichkeit von unserer Expertise zu profitieren. 
+Unsere Projekte entstehen mit Blick auf Qualität, Nachhaltigkeit und Lebenswert. Vom Bestandsbau über die Renovierung bis zum modernen Neubau – wir realisieren Bauprojekte, die Menschen begeistern und Wert schaffen.
 
-Wir bieten Ihnen eine Hausverwaltung die digitale Abläufe, zuverlässige und schnelle Beantwortung von Anfragen, pünktliche Erstellung von richtigen Abrechnungen und unkomplizierte Abwicklung von Schäden anbietet.
+Wir verkaufen unsere Projekte bereits während der Bauphase, um Ihnen als Käuferin oder Käufer maximale Transparenz und die Möglichkeit zu bieten, Ihr neues Zuhause von Anfang an zu begleiten. Mit unserer umfassenden Betreuung und handwerklichen Exzellenz entsteht das, was Sie sich wünschen.
 
-Ihre Immobilie ist unsere Leidenschaft und so engagieren wir uns stets greifbar und in Ihrer Nähe mit dem Fokus auf Ihr Objekt. Dabei helfen uns sachkundige Handwerker und Spezialisten vor Ort.
+Lernen Sie unsere aktuellen Projekte kennen und werden Sie Teil der NaheBau-Familie!
 
-Lassen Sie sich begeistern und lehnen Sie sich ab sofort einfach zurück und genießen Sie Ihr Objekt, statt sich selbst darum kümmern zu müssen!
+## Unsere Kompetenz
 
-## Was wir machen
-
-* Professionelle WEG- & Mietverwaltung
-* Ordentliche & zuverlässige Bearbeitung von Schäden und Anfragen
-* Online-Postfach für alle Dokumente rund um Ihr Objekt
-* DSGVO konforme und rechtssichere digitale Archivierung von Unterlagen
-* Richtige und saubere Verbuchung von Mieten und Rechnungen
-* Sachkunde und Erfahrungen zur Wertsteigerung Ihres Objektes
-* Hilfe bei der Vermietung und Verwaltung Ihrer Immobilien
+* **Projektentwicklung:** Von der Idee bis zur Fertigstellung
+* **Neubau:** Moderne Immobilien mit hohem Qualitätsstandard
+* **Unternehmertum:** Bestandsbauprojekte und Sanierungen mit Mehrwert
+* **Transparenz:** Regelmäßige Berichterstattung über Baufortschritt und Meilensteine
+* **Qualitätskontrolle:** Fachgerechte Ausführung mit zertifizierten Handwerkern
+* **Kundennähe:** Persönliche Betreuung vom Grundstück bis zum Hausschlüssel
+* **Wertsteigerung:** Gezielte Auswahl von Standorten mit Entwicklungspotential
