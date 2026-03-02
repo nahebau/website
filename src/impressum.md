@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 ## Angaben gemäß § 5 TMG
 
-IMH GmbH\
+NaheBau GmbH\
 Guldentaler Weg 8\
 55545 Bad Kreuznach
 
@@ -17,12 +17,12 @@ Handelsregister: HRB 24077\
 Registergericht: Amtsgericht Bad Kreuznach
 
 **Vertreten durch:**\
-Christine Hoffmann
+Sven Hoffmann
 
 ## Kontakt
 
 Telefon: +49 (0) 151 15280087\
-E-Mail: service@imhgmbh.de
+E-Mail: sven.hoffmann@nahebaugmbh.de
 
 ## Umsatzsteuer-ID
 

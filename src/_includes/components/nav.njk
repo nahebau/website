@@ -12,7 +12,9 @@
             class="block md:hidden {{ colors.logoCustom.mobile or colors.logoDefault.mobile }} hover:{{ colors.logoCustom.hover or
               colors.logoDefault.hover }}"
             alt="Mobile Logo">
-            <img src="/assets/images/logo.jpg" class="h-16"></a>
+            <div class="h-16 w-16 bg-gray-300 flex items-center justify-center">
+              <span class="text-xs text-gray-500">Logo</span>
+            </div></a>
             {# large logo hidden on small, block on md #}
             <a
               aria-label="Desktop Logo"
@@ -20,7 +22,9 @@
               class="hidden md:block {{ colors.logoCustom.desktop or colors.logoDefault.desktop }} hover:{{ colors.logoCustom.hover or
                 colors.logoDefault.hover }}"
               alt="Desktop Logo">
-              <img src="/assets/images/logo-quer.jpeg" class="fill-current h-16"></a>
+              <div class="h-16 w-48 bg-gray-300 flex items-center justify-center">
+                <span class="text-sm text-gray-500">Logo</span>
+              </div></a>
             </div>
             <div
               class="hidden sm:ml-6 sm:flex sm:items-center">

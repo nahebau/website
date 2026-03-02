@@ -1,13 +1,13 @@
 module.exports = {
-	siteURL: process.env.URL || 'https://imhgmbh.de',
-	siteName: 'IMH GmbH',
-	siteDescription: 'IMH GmbH Immobilienmanagement Hoffmann in Bad Kreuznach',
+	siteURL: process.env.URL || 'https://nahebaugmbh.de',
+	siteName: 'NaheBau GmbH',
+	siteDescription: 'NaheBau GmbH - Bau- und Renovierungsarbeiten in Bad Kreuznach',
 	siteImage: '/assets/images/logo.jpg',
 	lang: 'de',
 	locale: 'de_de',
 	authorName: 'Sven Hoffmann',
 	authorURL: 'sven-hoffmann',
-	authorEmail: 'mail@imhgmbh.de',
+	authorEmail: 'sven.hoffmann@nahebaugmbh.de',
 	twitterSite: '@shanerobinson',
 	twitterCreator: '@shanerobinson',
 	address: {
@@ -17,6 +17,6 @@ module.exports = {
 		zip: '55545',
 		phoneDisplay: '+49 (176) 122-5656',
 		phoneCall: '+491761225656',
-		email: 'mail@imhgmbh.de',
+		email: 'sven.hoffmann@nahebaugmbh.de',
 	},
 }
