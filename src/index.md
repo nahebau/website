@@ -42,8 +42,8 @@ heroSettings:
 ---
 ## Wer wir sind
 
-<div class="my-8 bg-gray-200 rounded-lg flex items-center justify-center" style="width: 100%; height: 200px;">
-  <span class="text-gray-500 text-lg">Logo Platzhalter</span>
+<div class="my-8 flex items-center justify-center">
+  <img src="/assets/svg/logo.svg" alt="NaheBau GmbH Logo" style="height: 80px;">
 </div>
 
 Die NaheBau GmbH ist ein erfahrenes Bauunternehmen, das sich auf die Entwicklung, Planung und Realisierung eigener Immobilienprojekte spezialisiert hat. Mit fundiertem Know-how und modernem Handwerk schaffen wir attraktive Wohn- und Gewerbeimmobilien in Bad Kreuznach und der Umgebung.
