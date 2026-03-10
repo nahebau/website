@@ -5,6 +5,7 @@ const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight')
 const markdownIt = require('markdown-it')
 const markdownItEmoji = require('markdown-it-emoji')
 const pluginSvgSprite = require('eleventy-plugin-svg-sprite')
+const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img')
 
 // const collections = require('./utils/collections.js')
 const filters = require('./utils/filters.js')
@@ -28,6 +29,14 @@ module.exports = function (eleventyConfig) {
 		globalClasses: 'fill-current',
 	})
 	eleventyConfig.addPlugin(faviconsPlugin, { outputDir: 'dist' })
+	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+		formats: ['webp', 'jpeg'],
+		widths: [320, 640, 960, 1280, 1920, 'auto'],
+		failOnError: false,
+		defaultAttributes: {
+			decoding: 'async',
+		},
+	})
 	/**
 	 * Filters
 	 * @link https://www.11ty.io/docs/filters/

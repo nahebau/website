@@ -1,49 +1,25 @@
 ---
 title: Bauprojekte und Immobilien von NaheBau GmbH | Bad Kreuznach
 layout: page
-excerpt: null
 eleventyNavigation:
   key: main
   title: Willkommen
   order: 1
-seo:
-  ? title
-  ? description
-  ? image
 hero: graphic
 heroSettings:
-  carousel:
-    images:
-      - home/6.jpg
-      - home/7.jpg
-      - home/8.jpg
-      - home/9.jpg
-  buttonTextColor: null
   bg:
-    color: null
     image: hero-neighborhood.jpg
-    imagePosition: null
     opacityMobile: opacity-50
     opacityDesktop: opacity-75
-  buttonBgHover: null
-  height:
-    ? mobile
-    ? desktop
-  buttonBgColor: null
-  subheadingText: Professionelle Projektentwicklung und Immobilienverkauf in der
-    Region Bad Kreuznach. Wir bauen Qualität, die Bestand hat.
+  subheadingText: Professionelle Projektentwicklung und Immobilienverkauf in der Region Bad Kreuznach. Wir bauen Qualität, die Bestand hat.
   headingText: Wir entwickeln und bauen eigene Immobilienprojekte
-  subheadingTextColor: null
-  headingTextColor: null
-  buttonURL: /projekte/
-  buttonBorder: null
-  headingTextCase: null
   buttonText: Projekte erkunden
+  buttonURL: /projekte/
 ---
 ## Wer wir sind
 
 <div class="my-8 flex items-center justify-center">
-  <img src="/assets/svg/logo.svg" alt="NaheBau GmbH Logo" style="height: 80px;">
+  <img src="/assets/svg/logo.svg" alt="NaheBau GmbH Logo" style="height: 80px;" eleventy:ignore>
 </div>
 
 Die NaheBau GmbH ist ein erfahrenes Bauunternehmen, das sich auf die Entwicklung, Planung und Realisierung eigener Immobilienprojekte spezialisiert hat. Mit fundiertem Know-how und modernem Handwerk schaffen wir attraktive Wohn- und Gewerbeimmobilien in Bad Kreuznach und der Umgebung.
