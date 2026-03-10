@@ -59,23 +59,23 @@ module.exports = {
 	 *  If you delete any variable keys, 11ty won't work.
 	 */
 	navCustom: {
-		barBg: '',
-		text: 'text-gray-700',
-		textActive: 'text-gray-800',
-		textHover: 'text-gray-800',
-		textActiveBg: 'bg-gray-100',
-		textFocus: 'text-gray-500',
+		barBg: 'bg-white',
+		text: 'text-primary',
+		textActive: 'text-primary-dark',
+		textHover: 'text-primary-dark',
+		textActiveBg: 'bg-green-50',
+		textFocus: 'text-primary',
 		mobileBg: '',
-		mobileBgActive: 'bg-gray-700',
-		mobileBgHover: 'bg-gray-100',
-		mobileBgFocus: 'bg-gray-300',
-		mobileText: 'text-gray-500',
-		mobileTextActive: 'text-gray-300',
-		mobileTextHover: 'text-gray-600',
-		mobileTextFocus: 'text-gray-700',
-		mobileButton: 'text-gray-500',
-		mobileButtonHover: 'text-gray-600',
-		mobileButtonBgHover: 'bg-gray-100',
+		mobileBgActive: 'bg-primary-dark',
+		mobileBgHover: 'bg-green-50',
+		mobileBgFocus: 'bg-green-100',
+		mobileText: 'text-primary',
+		mobileTextActive: 'text-white',
+		mobileTextHover: 'text-primary-dark',
+		mobileTextFocus: 'text-primary-dark',
+		mobileButton: 'text-primary',
+		mobileButtonHover: 'text-primary-dark',
+		mobileButtonBgHover: 'bg-green-50',
 	},
 
 	/**
@@ -87,9 +87,9 @@ module.exports = {
 		hover: 'text-teal-600',
 	},
 	logoCustom: {
-		desktop: 'text-gray-700',
-		mobile: 'text-gray-700',
-		hover: 'text-gray-800',
+		desktop: 'text-primary',
+		mobile: 'text-primary',
+		hover: 'text-primary-dark',
 	},
 
 	/**
@@ -100,7 +100,7 @@ module.exports = {
 	 * manage those in /src/assets/css/tailwind.css
 	 */
 	headingsDefault: 'text-teal-500',
-	headingsCustom: 'text-gray-700',
+	headingsCustom: 'text-primary-dark',
 
 	/**
 	 * ===== Excerpts on Post Lists
@@ -235,9 +235,9 @@ module.exports = {
 		linkHover: 'text-teal-700'
 	},
 	footerCustom: {
-		barBg: 'bg-gray-900',
-		text: 'text-gray-100',
-		linkHover: 'text-gray-300',
+		barBg: 'bg-primary-dark',
+		text: 'text-secondary-light',
+		linkHover: 'text-secondary',
 	},
 
 	/**
@@ -247,8 +247,8 @@ module.exports = {
 	socialIconsDefault: 'text-teal-400',
 	socialIconsHoverDefault: 'text-teal-500',
 
-	socialIconsCustom: 'text-gray-100',
-	socialIconsHoverCustom: 'text-gray-200',
+	socialIconsCustom: 'text-secondary-light',
+	socialIconsHoverCustom: 'text-secondary',
 
 	// Generally I use borders as replacements for <hr> tags.
 	// You may need to update Layouts and Templates if you want to use these

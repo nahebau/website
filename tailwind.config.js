@@ -12,8 +12,12 @@ module.exports = {
 	
 		extend: {
 			colors: {
-				primary: "#ADC761",
-				secondary: "#61C7EF",
+				primary: "#2D6A4F",
+				"primary-light": "#40916C",
+				"primary-dark": "#1B4332",
+				secondary: "#D4A76A",
+				"secondary-light": "#E0C097",
+				"secondary-dark": "#B8860B",
 			},
 			opacity: (theme) => ({
 				5: '.05',

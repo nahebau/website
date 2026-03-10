@@ -1,4 +1,4 @@
-# Custom Local 
+# Custom Local
 project
 _project
 
@@ -107,3 +107,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+.playwright/
+.playwright-cli/
