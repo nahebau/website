@@ -21,7 +21,7 @@ heroSettings:
   buttonTextColor: null
   bg:
     color: null
-    image: houses.jpg
+    image: hero-neighborhood.jpg
     imagePosition: null
     opacityMobile: opacity-50
     opacityDesktop: opacity-75
@@ -35,7 +35,7 @@ heroSettings:
   headingText: Wir entwickeln und bauen eigene Immobilienprojekte
   subheadingTextColor: null
   headingTextColor: null
-  buttonURL: /kontakt/
+  buttonURL: /projekte/
   buttonBorder: null
   headingTextCase: null
   buttonText: Projekte erkunden
