@@ -9,6 +9,10 @@ eleventyNavigation:
 seo:
   title: Kontakt - NaheBau GmbH
   description: Kontaktieren Sie uns und erfahren Sie mehr über unsere aktuellen Bauprojekte
+images:
+  feature: kontakt-blueprints.jpg
+  align: object-center
+  height: h-64 md:h-1/3
 ---
 Sie möchten mehr über unsere aktuellen Bauprojekte erfahren oder haben Interesse an einer Immobilie? Wir freuen uns auf Ihre Kontaktanfrage!
 
