@@ -1,4 +1,4 @@
-# Website for NaheBau GmbH
+# Website for H&S Nahebau GmbH
 
 This website is created with the awesome [11ty](https://11ty.dev) and based on a starter project called [11ta](https://github.com/11ta/11ta-template) by [Shane Robinson](https://github.com/shanerobinson) for which I am really greatful, because it is always a lot easier to start a new project based on a working site, rather than an empty directory. The website is deployed to Netlify, which is just as awesome and makes developing and deploying websites a breeze.
 
@@ -6,7 +6,7 @@ I have created this website for a small company that is owned by my brother as a
 
 ## Logo Design
 
-The NaheBau logo was designed with professional logo principles in mind: simplicity, scalability, and versatility. It consists of an abstract **N letterform** with an overlapping **roofline accent** in warm sand, evoking construction without being literal.
+The H&S Nahebau logo was designed with professional logo principles in mind: simplicity, scalability, and versatility. It consists of an abstract **N letterform** with an overlapping **roofline accent** in warm sand, evoking construction without being literal.
 
 ### Design decisions
 
@@ -37,7 +37,7 @@ The wordmark paths were created by rendering [Manrope Bold](https://fonts.google
    opentype.load(
      'https://cdn.jsdelivr.net/fontsource/fonts/manrope@latest/latin-700-normal.ttf',
      (err, font) => {
-       const path = font.getPath('NaheBau', 0, 26, 26); // text, x, y, fontSize
+       const path = font.getPath('H&S Nahebau', 0, 26, 26); // text, x, y, fontSize
        console.log(path.toPathData()); // SVG path d="" attribute
      }
    );

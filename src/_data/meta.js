@@ -1,7 +1,7 @@
 module.exports = {
 	siteURL: process.env.URL || 'https://nahebaugmbh.de',
-	siteName: 'NaheBau GmbH',
-	siteDescription: 'NaheBau GmbH - Bau- und Renovierungsarbeiten in Bad Kreuznach',
+	siteName: 'H&S Nahebau GmbH',
+	siteDescription: 'H&S Nahebau GmbH - Bau- und Renovierungsarbeiten in Bad Kreuznach',
 	siteImage: '/assets/images/logo.jpg',
 	lang: 'de',
 	locale: 'de_de',

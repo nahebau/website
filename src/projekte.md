@@ -6,7 +6,7 @@ eleventyNavigation:
   title: Projekte
   order: 2
 seo:
-  title: Projekte - NaheBau GmbH
+  title: Projekte - H&S Nahebau GmbH
 images:
   feature: projekte-cranes.jpg
   align: object-center
