@@ -7,7 +7,7 @@ eleventyNavigation:
   title: Kontakt
   order: 3
 seo:
-  title: Kontakt - NaheBau GmbH
+  title: Kontakt - H&S Nahebau GmbH
   description: Kontaktieren Sie uns und erfahren Sie mehr über unsere aktuellen Bauprojekte
 images:
   feature: kontakt-blueprints.jpg

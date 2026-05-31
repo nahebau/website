@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 ## Angaben gemäß § 5 TMG
 
-NaheBau GmbH\
+H&S Nahebau GmbH\
 Guldentaler Weg 8\
 55545 Bad Kreuznach
 
